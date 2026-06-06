@@ -1,0 +1,28 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+temp*
+.env
+
+# Node modules (if any web content)
+node_modules/
+
+# Python cache (if any automation)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Build artifacts
+dist/
+build/
+*.egg
