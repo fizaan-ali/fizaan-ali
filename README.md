@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a 4th semester BSIT student who genuinely loves learning. I started with the basics — C++, OOP, data structures — and now I'm deep into Python and AI/ML, which is where my real passion lives.
+I'm a 5th semester BSIT student who genuinely loves learning. I started with the basics — C++, OOP, data structures — and now I'm deep into Python and AI/ML, which is where my real passion lives.
 
 My long-term goal is to become an **AI Engineer**, and everything I'm doing right now — the courses, the projects, the practice repos — is a step toward that. I'm not just studying to pass exams; I'm building skills that I actually care about.
 
