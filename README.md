@@ -81,7 +81,7 @@ A terminal-based assistant that interprets natural-language commands to open app
 
 **Why it matters:** It brings together Python, API integration, modular code, environment-variable handling, and testing in one usable application.
 
-### 🚲 [Cyclistic Bike-Share Analysis](https://lnkd.in/dPVJaB2D)
+### 🚲 [Cyclistic Bike-Share Analysis](https://github.com/fizaan-ali/cyclistic_bike_share_case_study)
 **Python · Pandas · Jupyter Notebook · Data Analytics**
 
 A case study comparing ride patterns between annual members and casual riders. The analysis involved cleaning and combining data, investigating unusual ride durations and timestamp discrepancies, and communicating findings in a presentation.
