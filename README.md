@@ -119,5 +119,5 @@ I'm working toward stronger, end-to-end projects that connect **Python, data ana
 ---
 
 <div align="center">
-  <sub>Follow to see my journey. 🚀</sub>
+  <sub>I’m always learning, building, and improving—feel free to explore my repositories or connect with me on LinkedIn.</sub>
 </div>
